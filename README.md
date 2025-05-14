@@ -1,1 +1,1 @@
-# -case_informaz
+# case_informaz
